@@ -25,4 +25,5 @@ if ($result->num_rows > 0) {
 }
 $conn->close();
 
+echo "This line is added in master branch for merge conflicts"
 ?>
