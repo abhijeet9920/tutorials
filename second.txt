@@ -1,1 +1,2 @@
-This is another nasty text file with some "Lorem ipsum dolor" text
+This is another nasty text file with some "Lorem ipsum dolor" text
+This is another nasty text"
