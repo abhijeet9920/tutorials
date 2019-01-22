@@ -20,6 +20,4 @@ if ($result->num_rows > 0) {
     echo "0 results";
 }
 $conn->close();
-echo "Posts done";
-echo "This line is added for merge conflicts in master branch";
 ?>
