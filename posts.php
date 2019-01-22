@@ -21,4 +21,5 @@ if ($result->num_rows > 0) {
 }
 $conn->close();
 echo "Posts done";
+echo "This line is added for merge conflicts in master branch";
 ?>
