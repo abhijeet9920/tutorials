@@ -26,5 +26,5 @@ if ($result->num_rows > 0) {
 $conn->close();
 
 echo "This line is added in master branch for merge conflicts"
-echo "This line is modified in cherrypick branch"
+echo "Now there is no change present here"
 ?>
