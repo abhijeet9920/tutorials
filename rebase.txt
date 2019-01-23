@@ -1,2 +1,3 @@
 This is rebase
 Lorem ipsum added
+Another lorem ipsum
