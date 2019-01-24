@@ -1,1 +1,2 @@
 The content is now changed
+This content is changed to see how git pull & git pull --rebase differentiate each other
